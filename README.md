@@ -152,3 +152,5 @@ cv2.imwrite('negative.png',Anegative)
 ```
 其結果如下：
 <center><img src="https://github.com/edwardhome/Notebook/blob/main/opencv_test/negative.png?raw=true"></center>
+
+## 
